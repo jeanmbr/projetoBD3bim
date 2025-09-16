@@ -1,4 +1,4 @@
-# projetoBD3bim
+# Projeto Banco de Dados 3° Bimestre
 
 ## Descrição
 Projeto referente ao 3° bimestre da matéria de Banco de Dados, desenvolvido para manipular entidades SQL utilizando Python através da biblioteca MySQL Connector.
