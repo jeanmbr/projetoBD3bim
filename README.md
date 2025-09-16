@@ -25,9 +25,8 @@ Projeto referente ao 3° bimestre da matéria de Banco de Dados, desenvolvido pa
 ## Como Usar:
 Execute o script Python *projetoBD3bim.py* para interagir com o banco de dados
 
-## Estrutura do Projeto:
-projetoBD3bim/
-│
-├─ database.sql        # Script do banco de dados
-├─ projetoBD3bim.py    # Script principal em Python
-└─ README.md           # Este arquivo
+## Estrutura do Projeto
+
+- `database.sql` — Script do banco de dados para criação e configuração das tabelas.
+- `projetoBD3bim.py` — Script principal em Python para manipulação e consultas no banco.
+- `README.md` — Este arquivo de documentação do projeto.
